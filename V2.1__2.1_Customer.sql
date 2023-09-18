@@ -1,1 +1,1 @@
-alter table product add cost int;
+alter table customer add code int;
