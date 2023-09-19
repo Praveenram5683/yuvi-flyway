@@ -1,1 +1,1 @@
-alter table product add cost;
+alter table product add cost int;
