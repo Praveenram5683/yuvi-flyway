@@ -1,0 +1,1 @@
+alter table product add created_at datetime;
