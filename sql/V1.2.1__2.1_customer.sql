@@ -1,1 +1,1 @@
-alter table customer add code;
+alter table customer add code int;
